@@ -1,4 +1,5 @@
-tensorflow
+tensorflow==2.12.0
 streamlit
 numpy
 pandas
+h5py
